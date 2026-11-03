@@ -27,7 +27,6 @@ ele_principle_project/
 ## 实验内容
 - **实验名称**: EP1 Group 7 Report
 - **课程**: Electronic Principles (ELE_PRINCIPLE)
-- **大学**: University of Huddersfield
 - **小组**: Group 7
 
 ## 仿真说明
